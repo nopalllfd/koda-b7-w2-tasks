@@ -8,6 +8,6 @@ const func = {
     countArray,
     manualFilter,
     manualMap
-}
+};
 
-export default func
+export default func;
